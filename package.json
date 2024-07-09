@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-novos-recursos",
+  "version": "1.0.0",
+  "description": "Praticing responsive and theme from bootstrap 5.3",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gihub.com/democrito88/bootstrap-novos-recursos.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "css",
+    "dark-mode",
+    "themes",
+    "html",
+    "responsive"
+  ],
+  "author": "Demócrito d'Anunciação",
+  "license": "MIT"
+}
