@@ -2,6 +2,7 @@
 
 ![No Maintenance Intended](https://img.shields.io/badge/No%20Maintenance%20Intended-%23D42029.svg?style=for-the-badge)
 ![Version](https://img.shields.io/badge/v1.0.0-%23FF9900.svg?style=for-the-badge)
+![Fron-end](https://img.shields.io/badge/Front%20end-0AC18E?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%205.3.3-%237952b3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
