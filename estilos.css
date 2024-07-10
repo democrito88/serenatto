@@ -1,4 +1,18 @@
-@import url("assets/fonts/Barlow-Regular.ttf");
+@font-face {
+  font-family: 'Barlow-Regular';
+  src: url('assets/fonts/Barlow-Regular.ttf') format('truetype'),
+       url('assets/fonts/Barlow-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Barlow-Thin';
+  src: url('assets/fonts/Barlow-Thin.ttf') format('truetype'),
+       url('assets/fonts/Barlow-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
 
 :root{
   --cinza-claro: #ced4da;
@@ -7,21 +21,19 @@
   --marrom-escuro: #816D4F;
   --marrom-claro: #B29463;
   --preto: #212529;
-  --fonte-titulo: "Barlow-Regular";
-  --fonte-texto: "Barlow-Thin";
+  --fonte-titulo: 'Barlow-Regular', Arial;
+  --fonte-texto: 'Barlow-Thin';
 }
 
 body{
   h1, h2, h3, h4, h5, h6{
     font-family: var(--fonte-titulo);
-    font-weight: 400;
     color: var(--preto);
   }
 
-  p, b, small, strong, i, a, label, input, option{
+  p, b, small, strong, i, a, label, input, select, option{
     font-family: var(--fonte-texto);
-    font-weight: 100;
-    columns: var(--preto);
+    color: var(--preto);
   }
 }
 
@@ -51,6 +63,7 @@ body{
 /*form range -----------------------------*/
 /* Change the track color */
 .form-range {
+  appearance: none;
   -webkit-appearance: none;
   width: 100%;
   height: 8px;
@@ -63,7 +76,7 @@ body{
   width: 100%;
   height: 8px;
   cursor: pointer;
-  animate: 0.2s;
+  animation: 0.2s;
   background: var(--preto); /* Track color */
   border-radius: 5px;
 }
@@ -72,7 +85,7 @@ body{
   width: 100%;
   height: 8px;
   cursor: pointer;
-  animate: 0.2s;
+  animation: 0.2s;
   background: var(--preto); /* Track color */
   border-radius: 5px;
 }
@@ -81,7 +94,7 @@ body{
   width: 100%;
   height: 8px;
   cursor: pointer;
-  animate: 0.2s;
+  animation: 0.2s;
   background: var(--preto); /* Track color */
   border-radius: 5px;
   border-color: transparent;
