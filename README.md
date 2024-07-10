@@ -9,7 +9,7 @@
 ![Dependencies](https://img.shields.io/badge/Dependencies-2-%23FCD535.svg?style=for-the-badge)
 
 :us:
-A bootstrap 5 course project where it was developed a fiction cafe webpage.It was pra ticed responsive design, themes, styles, dark-mode and many more.
+A bootstrap 5 course project where it was developed a fiction cafe webpage. Between bootstrap new features there is responsive design, themes, styles, dark-mode and many more.
 
 :brazil:
 Projeto do curso da alura _"Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript"_ onde se desenvolve uma página de um café fictício. Neste curso, se praticou design responsivo, temas, estilos, dark-mode e outros recursos da biblioteca.

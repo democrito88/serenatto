@@ -1,3 +1,5 @@
+@import url("assets/fonts/Barlow-Regular.ttf");
+
 :root{
   --cinza-claro: #ced4da;
   --cinza-escuro: #868e96;
@@ -5,4 +7,153 @@
   --marrom-escuro: #816D4F;
   --marrom-claro: #B29463;
   --preto: #212529;
+  --fonte-titulo: "Barlow-Regular";
+  --fonte-texto: "Barlow-Thin";
+}
+
+body{
+  h1, h2, h3, h4, h5, h6{
+    font-family: var(--fonte-titulo);
+    font-weight: 400;
+    color: var(--preto);
+  }
+
+  p, b, small, strong, i, a, label, input, option{
+    font-family: var(--fonte-texto);
+    font-weight: 100;
+    columns: var(--preto);
+  }
+}
+
+.form-check-input{
+  color: white;
+  background-color: var(--bege);
+  border-color: var(--marrom-claro);
+  box-shadow: 1px var(--marrom-claro);
+}
+
+.form-check-input:checked{
+  background-color: var(--marrom-claro);
+  border-color: var(--marrom-claro);
+  box-shadow: 1px var(--marrom-claro);
+}
+
+.form-check-input:checked::before {
+  color: #fff;
+  border-color: var(--marrom-claro);
+  box-shadow: 1px var(--marrom-claro);
+}
+
+.form-range{
+  color: var(--preto);
+}
+
+/*form range -----------------------------*/
+/* Change the track color */
+.form-range {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 8px;
+  background: #ddd;
+  border-radius: 5px;
+  outline: none;
+}
+
+.form-range::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 8px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: var(--preto); /* Track color */
+  border-radius: 5px;
+}
+
+.form-range::-moz-range-track {
+  width: 100%;
+  height: 8px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: var(--preto); /* Track color */
+  border-radius: 5px;
+}
+
+.form-range::-ms-track {
+  width: 100%;
+  height: 8px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: var(--preto); /* Track color */
+  border-radius: 5px;
+  border-color: transparent;
+  color: transparent;
+}
+
+/* Change the thumb color */
+.form-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 13px;
+  height: 13px;
+  background: var(--marrom-claro); /* Thumb color */
+  border: 2px solid var(--marrom-claro); /* Thumb border color */
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: -8px; /* Adjust for the track height */
+}
+
+.form-range::-moz-range-thumb {
+  width: 13px;
+  height: 13px;
+  background: var(--marrom-claro); /* Thumb color */
+  border: 2px solid var(--marrom-claro); /* Thumb border color */
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.form-range::-ms-thumb {
+  width: 13px;
+  height: 13px;
+  background: var(--marrom-claro); /* Thumb color */
+  border: 2px solid var(--marrom-claro); /* Thumb border color */
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/*fim form range-----------------------------*/
+
+.header{
+  background-repeat: repeat-x;
+  height: 560px;
+}
+
+.header-1{
+  background-image: url("assets/img/banner-1.png");
+}
+
+.header-2{
+  background-image: url("assets/img/banner-2.png");
+}
+
+.header-3{
+  background-image: url("assets/img/banner-3.png");
+}
+
+.header-titulo{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.card{
+  border-color: var(--marrom-claro);
+}
+
+.btn-marrom{
+  background-color: var(--marrom-claro);
+}
+
+.btn-marrom:hover{
+  background-color: var(--marrom-escuro);
+  color: var(--cinza-claro);
+}
+
+.footer{
+  background-color: var(--marrom-claro);
 }

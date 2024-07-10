@@ -19,5 +19,8 @@
     "responsive"
   ],
   "author": "Demócrito d'Anunciação",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3"
+  }
 }
