@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Cafés Tradicionais",
+        "imagem": "cafe-tradicional.png",
+        "descricao": "O café Serenatto é conhecido por seus blends tradicionais e saborosos, que agradam aos amantes da bebida. Nossos grãos são cuidadosamente selecionados e torrados para produzir um aroma rico e sabor equilibrado. Entre os cafés mais tradicionais da casa, destaca-se o \"Café Serenatto\", um blend exclusivo de grãos com notas de chocolate e caramelo. Outra opção popular é o \"Café Italiano\", um café expresso encorpado e intenso. Já o \"Café Cappuccino\" é uma escolha clássica para quem prefere uma bebida cremosa e suave."
+    },
+    {
+        "titulo": "Cafés Especiais",
+        "imagem": "cafe-especial.png",
+        "descricao": "Somos conhecidos também por nossos cafés especiais, que são cuidadosamente preparados com grãos selecionados de alta qualidade e técnicas de preparo precisas. Entre as opções de cafés especiais do Café & Bistrô Serenatto, destacamos o café aeropress, que é preparado com uma técnica de imersão e pressão, resultando em uma bebida de sabor intenso e aroma acentuado. Outra opção popular é o café Hario V60, que é preparado com um filtro de papel em formato de cone e resulta em uma bebida limpa e suave, ressaltando as notas sensoriais dos grãos. Além disso, oferecemos uma variedade de bebidas geladas, como o café gelado, que é preparado com grãos torrados escuros e servido com gelo e leite, resultando em uma bebida refrescante e saborosa."
+    },
+    {
+        "titulo": "Smoothies e Vitaminas",
+        "imagem": "vitaminas.png",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu magna a metus finibus varius. Cras aliquet volutpat sapien ut convallis. Sed sollicitudin odio at magna vehicula vehicula. Pellentesque eu eros placerat, pulvinar lectus nec, tincidunt nunc. Vestibulum consequat iaculis eros faucibus elementum. Nulla facilisi. Maecenas at urna ut dui vehicula venenatis. Mauris cursus enim eu magna tincidunt consequat. Nulla feugiat ornare sollicitudin. Integer et diam sit amet odio accumsan ultricies. Vivamus elit ante, blandit eget ante vitae, hendrerit finibus dolor. Duis a porta quam. Duis auctor turpis sed diam hendrerit, id sodales purus dignissim. Cras ut ipsum interdum velit dapibus ornare. Phasellus blandit eu ex ac ultricies. Phasellus at felis at lectus fermentum scelerisque. Vestibulum ac euismod quam. Sed vulputate diam a tempor tempor. Sed volutpat enim eget purus congue, et viverra est sagittis. Mauris consequat consequat purus, non mattis ipsum dapibus eu. Nam ut volutpat diam. Phasellus maximus erat justo, id consectetur velit porta id. Maecenas sed hendrerit nisi, eget varius nunc. "
+    },
+    {
+        "titulo": "Pães e focaccias",
+        "imagem": "paes.png",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu magna a metus finibus varius. Cras aliquet volutpat sapien ut convallis. Sed sollicitudin odio at magna vehicula vehicula. Pellentesque eu eros placerat, pulvinar lectus nec, tincidunt nunc. Vestibulum consequat iaculis eros faucibus elementum. Nulla facilisi. Maecenas at urna ut dui vehicula venenatis. Mauris cursus enim eu magna tincidunt consequat. Nulla feugiat ornare sollicitudin. Integer et diam sit amet odio accumsan ultricies. Vivamus elit ante, blandit eget ante vitae, hendrerit finibus dolor. Duis a porta quam. Duis auctor turpis sed diam hendrerit, id sodales purus dignissim. Cras ut ipsum interdum velit dapibus ornare. Phasellus blandit eu ex ac ultricies. Phasellus at felis at lectus fermentum scelerisque. Vestibulum ac euismod quam. Sed vulputate diam a tempor tempor. Sed volutpat enim eget purus congue, et viverra est sagittis. Mauris consequat consequat purus, non mattis ipsum dapibus eu. Nam ut volutpat diam. Phasellus maximus erat justo, id consectetur velit porta id. Maecenas sed hendrerit nisi, eget varius nunc. "
+    },
+    {
+        "titulo": "Doces",
+        "imagem": "doces.png",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu magna a metus finibus varius. Cras aliquet volutpat sapien ut convallis. Sed sollicitudin odio at magna vehicula vehicula. Pellentesque eu eros placerat, pulvinar lectus nec, tincidunt nunc. Vestibulum consequat iaculis eros faucibus elementum. Nulla facilisi. Maecenas at urna ut dui vehicula venenatis. Mauris cursus enim eu magna tincidunt consequat. Nulla feugiat ornare sollicitudin. Integer et diam sit amet odio accumsan ultricies. Vivamus elit ante, blandit eget ante vitae, hendrerit finibus dolor. Duis a porta quam. Duis auctor turpis sed diam hendrerit, id sodales purus dignissim. Cras ut ipsum interdum velit dapibus ornare. Phasellus blandit eu ex ac ultricies. Phasellus at felis at lectus fermentum scelerisque. Vestibulum ac euismod quam. Sed vulputate diam a tempor tempor. Sed volutpat enim eget purus congue, et viverra est sagittis. Mauris consequat consequat purus, non mattis ipsum dapibus eu. Nam ut volutpat diam. Phasellus maximus erat justo, id consectetur velit porta id. Maecenas sed hendrerit nisi, eget varius nunc. "
+    },
+    {
+        "titulo": "Salgados",
+        "imagem": "salgados.png",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu magna a metus finibus varius. Cras aliquet volutpat sapien ut convallis. Sed sollicitudin odio at magna vehicula vehicula. Pellentesque eu eros placerat, pulvinar lectus nec, tincidunt nunc. Vestibulum consequat iaculis eros faucibus elementum. Nulla facilisi. Maecenas at urna ut dui vehicula venenatis. Mauris cursus enim eu magna tincidunt consequat. Nulla feugiat ornare sollicitudin. Integer et diam sit amet odio accumsan ultricies. Vivamus elit ante, blandit eget ante vitae, hendrerit finibus dolor. Duis a porta quam. Duis auctor turpis sed diam hendrerit, id sodales purus dignissim. Cras ut ipsum interdum velit dapibus ornare. Phasellus blandit eu ex ac ultricies. Phasellus at felis at lectus fermentum scelerisque. Vestibulum ac euismod quam. Sed vulputate diam a tempor tempor. Sed volutpat enim eget purus congue, et viverra est sagittis. Mauris consequat consequat purus, non mattis ipsum dapibus eu. Nam ut volutpat diam. Phasellus maximus erat justo, id consectetur velit porta id. Maecenas sed hendrerit nisi, eget varius nunc. "
+    }
+]

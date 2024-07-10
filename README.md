@@ -6,10 +6,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%205.3.3-%237952b3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![License](https://img.shields.io/badge/MIT-%2315726B.svg?style=for-the-badge)
-![Dependencies](https://img.shields.io/badge/Dependencies-2-%23FCD535.svg?style=for-the-badge)
+![Dependencies](https://img.shields.io/badge/Dependencies-0-%23FCD535.svg?style=for-the-badge)
 
 :us:
-A bootstrap 5 course project where it was developed a fiction cafe webpage. Between bootstrap new features there is responsive design, themes, styles, dark-mode and many more.
+A _"Bootstrap 5: new features and recomended HTML, CSS and Javascript pratices"_ web course's project where it was developed a fiction cafe webpage. Between bootstrap new features there is responsive design, themes, styles, dark-mode and many more.
 
 :brazil:
 Projeto do curso da alura _"Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript"_ onde se desenvolve uma página de um café fictício. Neste curso, se praticou design responsivo, temas, estilos, dark-mode e outros recursos da biblioteca.

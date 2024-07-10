@@ -22,7 +22,7 @@
   --marrom-claro: #B29463;
   --preto: #212529;
   --fonte-titulo: 'Barlow-Regular', Arial;
-  --fonte-texto: 'Barlow-Thin';
+  --fonte-texto: 'Barlow-Thin', sans-serif;
 }
 
 body{
@@ -42,6 +42,12 @@ body{
   background-color: var(--bege);
   border-color: var(--marrom-claro);
   box-shadow: 1px var(--marrom-claro);
+}
+
+.form-check-input:focus{
+  box-shadow: 3px 3px var(--marrom-claro);
+  border-color: var(--marrom-claro);
+  color: var(--marrom-claro);
 }
 
 .form-check-input:checked{
@@ -133,24 +139,24 @@ body{
 
 /*fim form range-----------------------------*/
 
-.header{
+.banner{
   background-repeat: repeat-x;
   height: 560px;
 }
 
-.header-1{
+.banner-1{
   background-image: url("assets/img/banner-1.png");
 }
 
-.header-2{
+.banner-2{
   background-image: url("assets/img/banner-2.png");
 }
 
-.header-3{
+.banner-3{
   background-image: url("assets/img/banner-3.png");
 }
 
-.header-titulo{
+.banner-titulo{
   background-color: rgba(255, 255, 255, 0.5);
 }
 
@@ -169,4 +175,19 @@ body{
 
 .footer{
   background-color: var(--marrom-claro);
+}
+
+/*offcanvas light*/
+.accordion-button{
+  background-color: var(--marrom-claro);
+  color: var(--preto);
+}
+
+.accordion-button:focus{
+  box-shadow: none;
+}
+
+.accordion-button:enabled{
+  background-color: var(--marrom-claro);
+  color: var(--preto);
 }
