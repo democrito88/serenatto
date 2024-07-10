@@ -1,4 +1,4 @@
-# Alura - Bootstrap (Novos recursos)
+# Alura - Serenatto
 
 ![No Maintenance Intended](https://img.shields.io/badge/No%20Maintenance%20Intended-%23D42029.svg?style=for-the-badge)
 ![Version](https://img.shields.io/badge/v1.0.0-%23FF9900.svg?style=for-the-badge)

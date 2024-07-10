@@ -140,8 +140,13 @@ body{
 /*fim form range-----------------------------*/
 
 .banner{
-  background-repeat: repeat-x;
-  height: 560px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  width: 100%;
+
 }
 
 .banner-1{
@@ -157,7 +162,7 @@ body{
 }
 
 .banner-titulo{
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .card{
@@ -191,3 +196,4 @@ body{
   background-color: var(--marrom-claro);
   color: var(--preto);
 }
+/*fim offcanvas light*/
