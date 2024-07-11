@@ -197,3 +197,18 @@ body{
   color: var(--preto);
 }
 /*fim offcanvas light*/
+
+/*dark mode*/
+[data-bs-theme="dark"]{
+  h1, h2, h3, h4, h5, h6, p, b, small, strong, i, a, label, input, select, option{
+    color: var(--cinza-claro);
+  }
+  .nav-link, .card-body {
+    --bs-nav-link-color: white;
+    --bs-card-color: white;
+    --bs-offcanvas-color: white;
+    --bs-body-color: white;
+    --bs-body-color: white;
+  }
+}
+/*fim dark mode*/

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,8 +12,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
   <link rel="stylesheet" href="./estilos.css">
 </head>
-
-<body>
+<body data-bs-theme="light">
   <header>
     <nav class="navbar bg-body-tertiary fixed-top">
       <div class="container">
@@ -34,8 +32,8 @@
             </li>
             <li class="nav-item">
               <div class="form-check form-switch pt-2">
-                <input class="form-check-input check-marrom" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                <label class="form-check-label" for="flexSwitchCheckDefault">Modo noturno</label>
+                <input class="form-check-input check-marrom" type="checkbox" role="switch" id="modo-noturno">
+                <label class="form-check-label" for="modo-noturno">Modo noturno</label>
               </div>
             </li>
           </ul>
@@ -65,8 +63,8 @@
               <li class="nav-item">
                 <div class="form-check form-switch pt-2">
                   <input class="form-check-input check-marrom" type="checkbox" role="switch"
-                    id="flexSwitchCheckDefault">
-                  <label class="form-check-label" for="flexSwitchCheckDefault">Modo noturno</label>
+                    id="modo-noturno">
+                  <label class="form-check-label" for="modo-noturno">Modo noturno</label>
                 </div>
               </li>
             </ul>
@@ -259,8 +257,9 @@
         <div class="form-group py-2">
           <select class="form-select">
             <option value="">Preferência de contato</option>
-            <option value="telefone">Telefone</option>
             <option value="email">Email</option>
+            <option value="whatsapp">Whatsapp</option>
+            <option value="ligação">Ligação</option>
           </select>
         </div>
         <div class="form-group py-2">
@@ -463,6 +462,7 @@
         .catch(error => console.error(error));
     })
   </script>
+  <script src="script.js"></script>
 </body>
 
 </html>
